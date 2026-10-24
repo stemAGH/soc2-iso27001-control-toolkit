@@ -1,0 +1,19 @@
+# Live evidence belongs in a separate restricted store.
+evidence/private/
+evidence/raw/
+evidence/live/
+*.evtx
+*.pcap
+*.pcapng
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+credentials
+credentials.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

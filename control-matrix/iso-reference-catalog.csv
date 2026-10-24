@@ -1,0 +1,34 @@
+iso27001_annex_a,title,verification_status,source_id
+A.5.3,Segregation of duties,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.14,Information transfer,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.15,Access control,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.16,Identity management,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.18,Access rights,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.24,Information security incident management planning and preparation,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.25,Assessment and decision on information security events,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.26,Response to information security incidents,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.27,Learning from information security incidents,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.28,Collection of evidence,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.5.30,ICT readiness for business continuity,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.6.8,Information security event reporting,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.7.2,Physical entry,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.7.4,Physical security monitoring,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.7.14,Secure disposal or re-use of equipment,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.2,Privileged access rights,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.5,Secure authentication,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.7,Protection against malware,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.8,Management of technical vulnerabilities,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.9,Configuration management,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.10,Information deletion,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.12,Data leakage prevention,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.13,Information backup,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.15,Logging,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.16,Monitoring activities,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.17,Clock synchronization,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.19,Installation of software on operational systems,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.20,Networks security,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.22,Segregation of networks,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.24,Use of cryptography,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.29,Security testing in development and acceptance,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.31,"Separation of development, test and production environments",Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02
+A.8.32,Change management,Identifier and title require licensed-text review,SRC-ISO-01; SRC-ISO-02

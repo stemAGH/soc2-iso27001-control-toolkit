@@ -1,0 +1,27 @@
+{
+  "synthetic": true,
+  "schema": "simplified CloudTrail-shaped fixture; not a real AWS export",
+  "Records": [
+    {
+      "eventTime": "2026-10-20T09:00:00Z",
+      "eventSource": "ec2.amazonaws.com",
+      "eventName": "AuthorizeSecurityGroupIngress",
+      "awsRegion": "us-east-1",
+      "recipientAccountId": "111122223333",
+      "sourceIPAddress": "198.51.100.20",
+      "userIdentity": {
+        "type": "AssumedRole",
+        "arn": "arn:aws:sts::111122223333:assumed-role/SYN-LabAdmin/syn.session"
+      },
+      "requestParameters": {
+        "groupId": "SYN-SG-001",
+        "ipProtocol": "tcp",
+        "fromPort": 22,
+        "toPort": 22,
+        "cidrIp": "0.0.0.0/0"
+      },
+      "eventID": "SYN-CT-001",
+      "incident_id": "SYN-INC-001"
+    }
+  ]
+}

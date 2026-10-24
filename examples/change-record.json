@@ -1,0 +1,39 @@
+{
+  "synthetic": true,
+  "schema": "toolkit-v1",
+  "changes": [
+    {
+      "change_id": "SYN-CHG-001",
+      "type": "Standard",
+      "system": "Wazuh lab rule set",
+      "requester": "Synthetic Detection Engineer",
+      "approver": "Synthetic SOC Manager",
+      "requested_at_utc": "2026-10-19T09:00:00Z",
+      "approved_at_utc": "2026-10-19T10:00:00Z",
+      "deployed_at_utc": "2026-10-19T11:00:00Z",
+      "risk_assessment": "Low; lab only; monitor alert noise",
+      "test_result": "Benign positive and negative cases passed in isolated lab narrative",
+      "rollback": "Revert to previous approved rule version; lab rollback rehearsed",
+      "verification": "Expected lab alert and no duplicate ingestion",
+      "post_review_at_utc": "2026-10-19T12:00:00Z",
+      "authorized_verification_window_utc": "2026-10-20T10:00:00Z through 2026-10-20T10:15:00Z; covers SYN-EVT-002 lab rule-maintenance validation"
+    },
+    {
+      "change_id": "SYN-CHG-002",
+      "type": "Emergency",
+      "system": "AWS lab security group",
+      "requester": "Synthetic Cloud Engineer",
+      "approver": "Synthetic Incident Commander",
+      "requested_at_utc": "2026-10-22T09:00:00Z",
+      "approved_at_utc": "2026-10-22T09:03:00Z",
+      "deployed_at_utc": "2026-10-22T09:05:00Z",
+      "risk_assessment": "Urgent restriction on separate SYN-SG-002; preserve management connectivity",
+      "test_result": "Approved jump-host path checked before and after restriction",
+      "rollback": "Restore prior approved rule only with commander authorization",
+      "verification": "Administrative ingress restricted; service health passed",
+      "post_review_at_utc": "2026-10-23T09:00:00Z",
+      "independent_reviewer": "Synthetic Change Manager",
+      "note": "Does not remediate open finding SYN-CF-001 on SYN-SG-001"
+    }
+  ]
+}

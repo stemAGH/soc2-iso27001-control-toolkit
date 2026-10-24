@@ -1,0 +1,15 @@
+test_id,control_id,evidence_id,execution_mode,result,observed_result,tester,tested_at_utc,live_effectiveness
+TST-001,CTL-001,EV-001,Synthetic desk review,Fail,Legacy administrative path lacks approved compensating control.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-002,CTL-002,EV-002,Synthetic desk review,Pass,Two fictional lifecycle records meet the defined deadline; complete live population not available.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-003,CTL-003,EV-003,Synthetic desk review,Fail,One removal is overdue and unverified.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-004,CTL-004,EV-004,Synthetic desk review,Not tested,Synthetic office note cannot substantiate supplier physical controls.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-005,CTL-005,EV-005,Synthetic desk review,Pass,One fictional physical release meets ordering requirement; cloud deletion remains separate scope.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-006,CTL-006,EV-006,Synthetic desk review,Fail,Unapproved public SSH ingress exists in the synthetic configuration.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-007,CTL-007,EV-007,Synthetic desk review,Pass,Fictional transfer and two negative checks meet the stated case criteria.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-008,CTL-008,EV-008,Synthetic desk review,Pass,Synthetic single-endpoint case demonstrates workflow only; no actual prevention test was run.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-009,CTL-009,EV-009,Synthetic desk review,Pass,Fictional drift case meets the local 15-minute detection target.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-010,CTL-010,EV-010,Synthetic desk review,Not tested,Anomaly example is present but the required feed-outage test has no sample evidence.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-011,CTL-011,EV-011,Synthetic desk review,Pass,Two fictional dispositions distinguish incident evaluation from simple alert receipt.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-012,CTL-012,EV-012,Synthetic desk review,Pass,Fictional timeline and receipts meet the runbook decision ordering.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-013,CTL-013,EV-013,Synthetic desk review,Pass,Fictional recovery and follow-up records meet the local test criteria; no real restore was performed.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed
+TST-014,CTL-014,EV-014,Synthetic desk review,Pass,Two fictional change records demonstrate standard and emergency paths; live completeness is not established.,Synthetic GRC Reviewer,2026-10-24T12:00:00Z,Not assessed

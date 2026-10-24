@@ -1,0 +1,1 @@
+risk_id,synthetic,description,affected_asset,threat,vulnerability,potential_impact,likelihood,impact,inherent_score,inherent_band,existing_controls,residual_likelihood,residual_impact,residual_score,residual_band,control_ids,risk_owner,treatment,treatment_plan,target_date,status,acceptance_authority,acceptance_date,review_date

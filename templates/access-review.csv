@@ -1,0 +1,1 @@
+record_id,synthetic,review_period,control_id,user_id,account_type,system,department,manager,roles_and_privileges,privileged,last_activity_utc,activity_source_and_limit,access_justification,reviewer,decision,decision_date,remediation_action,remediation_owner,due_date,ticket_id,approval_by,approval_date,closure_evidence,independent_verifier,closure_date,status

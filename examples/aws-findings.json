@@ -1,0 +1,28 @@
+{
+  "synthetic": true,
+  "schema": "toolkit-normalized-v1; not AWS Config API output",
+  "evaluated_at_utc": "2026-10-20T09:05:00Z",
+  "account": "111122223333",
+  "region": "us-east-1",
+  "findings": [
+    {
+      "finding_id": "SYN-CF-001",
+      "control_id": "CTL-006",
+      "resource_id": "SYN-SG-001",
+      "status": "NON_COMPLIANT",
+      "observation": "tcp/22 ingress from 0.0.0.0/0",
+      "approved_exception": false,
+      "remediation_ticket": "SYN-CLOUD-001",
+      "remediation_status": "Open",
+      "risk_id": "RSK-002"
+    },
+    {
+      "finding_id": "SYN-CF-002",
+      "control_id": "CTL-010",
+      "resource_id": "SYN-TRAIL-001",
+      "status": "REVIEW_REQUIRED",
+      "observation": "Management event trail illustrated; data event selectors and feed-outage detection not evidenced",
+      "risk_id": "RSK-003"
+    }
+  ]
+}
